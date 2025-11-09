@@ -1,4 +1,4 @@
-# Assignment-4
+# IMG420-Assignment-4
 
 A simple 2D platformer built with Godot 4.4 and C#.
 
