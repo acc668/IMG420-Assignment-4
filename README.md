@@ -10,7 +10,7 @@ A simple 2D platformer built with Godot 4.4 and C#.
 
 ## Controls
 
-- **Arrow Keys**: Move left/right
+- **Arrow Keys**: Move left (A) / right (D)
 - **Space**: Jump
 
 ## Features
